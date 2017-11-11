@@ -11,5 +11,5 @@ for(var i = 0; i< names.length; i++){
 var broj = 23;
 
 if(broj>0){
-  console.log(broj);   
+  console.log(broj);  
 }
