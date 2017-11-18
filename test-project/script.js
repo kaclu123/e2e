@@ -21,5 +21,9 @@ for(i = 0; i<ages.length; i++){
 var years = [1992, 2000, 1990, 1950,1974];
 printFullAge(years);
 
+var object = {
+    name: 'Hello'
+}
+
 
 
