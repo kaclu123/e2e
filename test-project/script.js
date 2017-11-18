@@ -24,6 +24,9 @@ printFullAge(years);
 var object = {
     name: 'Hello'
 }
+var object = {
+    name: 'Hello'
+}
 
 
 
